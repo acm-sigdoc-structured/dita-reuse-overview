@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Key definitions</title>
+    <!-- This key definition points to the lib_company-branding2.dita library. -->
+    <keydef keys="k_company-branding" href="shared/lib_company-branding2.dita"/>
+
+</map>

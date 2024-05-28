@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_acme-prelims">
+    <title>Introduction: <ph conkeyref="k_company-branding/ph_product-name"/></title>
+    <body>
+        <p>This topic can reference reusable library elements using DITA keys. </p>
+        
+        <image conkeyref="k_company-branding/image_test"/>
+
+        <simpletable conkeyref="k_company-branding/stable_admin-logins">
+            <strow/>
+        </simpletable>
+        
+        <p>Our new product is named <ph conkeyref="k_company-branding/ph_product-name"/>. </p>
+        <p>Our NASDAQ symbol is <keyword conkeyref="k_company-branding/kw_nasdaq-symbol"/></p>
+        <p>The name of our console suite is now <term conkeyref="k_company-branding/term_console-set"/></p>
+    </body>
+</topic>
