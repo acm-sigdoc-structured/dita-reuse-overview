@@ -3,6 +3,6 @@
 <map>
     <title>Key definitions</title>
     <!-- This key definition points to the lib_company-branding2.dita library. -->
-    <keydef keys="k_company-branding" href="shared/lib_company-branding2.dita"/>
+    <keydef keys="k_company-branding" href="lib_company-branding2.dita"/>
 
 </map>
