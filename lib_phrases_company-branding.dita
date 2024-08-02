@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="lib_phrases_company-branding">
+    <title>Library: Phrases for Acme Branding</title>
+    <body>
+        <p></p>
+        
+<!-- The following phrase-level elements specify names for our company and its products. --> 
+<p><keyword id="keyword_company-name">Acme Coyote LLM</keyword></p>
+<p><keyword id="keyword_nasdaq-symbol">ACC</keyword></p>
+<p><ph id="ph_product-name">Acme Coyote Console</ph></p>
+<p><term id="term_console-set">Acme CS v1.0</term></p>
+                
+    </body>
+</topic>

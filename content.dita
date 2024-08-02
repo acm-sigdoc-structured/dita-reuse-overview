@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_acme-prelims">
+    <title>Company overview: <keyword
+            conref="lib_phrases_company-branding.dita#lib_phrases_company-branding/keyword_company-name"
+            >c</keyword>
+    </title>
+    <shortdesc>You can reference a variety of phrase elements such as
+            <xmlelement>keyword</xmlelement> and block elements such as <xmlelement>ul</xmlelement>
+        (unordered list) into your current topic. </shortdesc>
+    <body>
+        <section id="section_hsx_ldm_dcc">
+            <title>References to blocks</title>
+            <p>Our new company is endorsed by ACM SIDOC.</p>
+            <p>Company name: <keyword
+                    conref="lib_phrases_company-branding.dita#lib_phrases_company-branding/keyword_company-name"
+                    >c</keyword>.</p>
+            <fig conref="lib_blocks_company-branding.dita#lib_blocks_company-branding/fig_acm-logo"
+                id="fig_hxq_ndm_dcc"/>
+            <p>Our new company has a reputable Board of Directors, especially <ph
+                    conref="./lib_blocks_company-branding.dita#lib_blocks_company-branding/ph_dewey"
+                />.</p>
+            <ul
+                conref="lib_blocks_company-branding.dita#lib_blocks_company-branding/ul_company-board-members"
+                id="ul_vn1_pdm_dcc">
+                <li/>
+            </ul>
+        </section>
+        <section id="section_lqm_pdm_dcc">
+            <title>References to phrases</title>
+        </section>
+        <p>Our new product at 
+            <keyword conref="lib_phrases_company-branding.dita#lib_phrases_company-branding/keyword_company-name"/> 
+            is named 
+            <ph conref="./lib_phrases_company-branding.dita#lib_phrases_company-branding/ph_product-name"/>. </p>
+        <p>Our NASDAQ symbol is <keyword conref="lib_phrases_company-branding.dita#lib_phrases_company-branding/keyword_nasdaq-symbol"/></p>
+        <p>The name of our console suite is now <term conref="lib_phrases_company-branding.dita#lib_phrases_company-branding/term_console-set"/></p>
+    </body>
+</topic>

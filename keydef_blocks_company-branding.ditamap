@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Blocks - key definitions</title>
+    <!-- This key definition points to the lib_blocks_company-branding.dita library. -->
+    <keydef keys="key_blocks_company-branding" href="lib_blocks_company-branding.dita"/>
+
+</map>

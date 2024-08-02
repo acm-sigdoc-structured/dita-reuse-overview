@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="lib_blocks_company-branding">
+    <title>Library: Blocks - Acme Branding</title>
+    <body>
+        <p></p>
+
+<!-- The following block (unordered list) documents our current Board memebers. -->
+<ul id="ul_company-board-members">
+    <li><ph id="ph_dewey">George Dewey</ph></li>
+    <li>Robert Cheatum</li>
+    <li>Rebecca Howe</li>
+</ul>
+
+<!-- The following simpletable specifies the types of administrative logins. -->     
+<simpletable id="stable_admin-logins">
+    <sthead>
+        <stentry>Login</stentry>
+        <stentry>Description</stentry>
+    </sthead>
+    <strow>
+      <stentry>Admin1</stentry>
+      <stentry>Overall system administrator</stentry>
+  </strow>
+</simpletable>
+        
+<!-- The following image is our default logo for ACM SIGDOC. -->
+<fig id="fig_acm-logo">
+    <title>ACM logo</title>
+    <image id="image_acm-logo"
+        placement="break" 
+        class="- topic/image " 
+        alt="Infection" 
+        scope="external"
+        scale="25"
+        href="https://sigdoc.acm.org/wp-content/uploads/2024/02/SIGDOC_withTag-1536x574.png"/>   
+</fig>
+
+
+    </body>
+</topic>

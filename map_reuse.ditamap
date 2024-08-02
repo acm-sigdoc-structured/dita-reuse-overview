@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="map_rootmap_acme">
+    <title>Welcome to 
+        <keyword conref="lib_phrases_company-branding.dita#lib_phrases_company-branding/keyword_company-name"/>
+    </title>
+    <topicref href="content.dita"/>
+</map>
